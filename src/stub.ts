@@ -1,0 +1,1 @@
+export let example = "You can delete this file if everyhing compiled.";
