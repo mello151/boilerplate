@@ -17,3 +17,5 @@ This is my boilerplate. There are many like it, but this one is mine.
 
  1. `npm install`
  2. `npm start`
+ 3. Visit http://localhost:8080/
+
