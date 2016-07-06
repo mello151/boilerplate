@@ -1,6 +1,6 @@
-let fs = require('fs');
+var fs = require('fs');
 
-let remove = (files) => (answers) => {
+var remove = (files) => (answers) => {
     files.forEach(function (f) {
         fs.unlink(f, (err) => {
             if (err) throw err;
